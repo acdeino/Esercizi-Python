@@ -16,3 +16,12 @@ print(new_age)
 age1 = input("Enter your float age: ")
 new_age1 = float(age1) + 55
 print(new_age1)
+
+result3 = 20 - 10/5 * 3**2
+print(result3)
+
+result4 = (20-10)/5 * 3**2
+print(result4)
+
+result5 = (20-10)/(5 * 3)**2
+print(result5)

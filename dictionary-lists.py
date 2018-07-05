@@ -9,3 +9,9 @@ dct  # prints (in python cmd line) the dictionary
 
 # another way to write dictionaries is:
 dct2 = {"Name": ("Peter"), "Surname": ("Griffin"), "Age": (42)}
+
+dct3 = {"Cities": ("Porto", "San Diego", "Austin")}
+
+dct3["Cities"]
+
+dct2 ["Surname"]

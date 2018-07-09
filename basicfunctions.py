@@ -12,3 +12,4 @@ print(minutes_to_hours(70) + 10)
 print(seconds_to_hours(3895) + 20)
 
 print(seconds_to_hours(7380))
+print(seconds_to_hours(300))

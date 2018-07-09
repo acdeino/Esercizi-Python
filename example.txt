@@ -1,0 +1,6 @@
+Hello!  I'm not going down to a new line, at least for the moment
+I am writing this file via python.
+line1
+line2
+line3
+Line4Line5Line6
